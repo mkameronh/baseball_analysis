@@ -1,19 +1,20 @@
 # baseball_analysis
+## Week 1 - Presentation
 
-# Technologies Used
-## Data Cleaning and Analysis
+## HB - Technologies Used
+### Data Cleaning and Analysis
 We will use google collab and pyspark to join our csv files together and organize them. 
 
-## Database Storage
+### Database Storage
 For this step we will utilize an Amazon Web Service RDS (Relational Database Service) to store our csv files. 
 
-## Machine Learning
+### Machine Learning
 We will be using google collab and the plug ins Spark and Java for our machine learning process. 
 
-## Dashboard
+### Dashboard
 For our machine learning model we will be displaying it on plotly via jupyter notebook with an interface. 
 
-## Week 1 - NB Presentation
+## NB Presentation
 ### Topic: 
 - Baseball Hall of Fame Induction
 
