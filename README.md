@@ -1,6 +1,20 @@
 # baseball_analysis
+## Week 1 - Presentation
 
-## Week 1 - NB Presentation
+## HB - Technologies Used
+### Data Cleaning and Analysis
+We will use VScode for data cleaning and github for sharing. For our initial data analysis familiarizing ourselves with the datasets, we are using VScode. 
+
+### Database Storage
+For this step we will utilize an Amazon Web Service RDS (Relational Database Service) to store our csv files. 
+
+### Machine Learning
+We will be using google collab and the plug ins Spark and Java for our machine learning process. 
+
+### Dashboard
+For our machine learning model we will be using tableau to create data visualizations and displaying them on google slides. 
+
+## NB Presentation
 ### Topic: 
 - Baseball Hall of Fame Induction
 
