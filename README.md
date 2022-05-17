@@ -1,5 +1,4 @@
 # baseball_analysis
-## Week 1 - Presentation
 
 ## HB - Technologies Used
 ### Data Cleaning and Analysis
@@ -27,3 +26,10 @@ For our machine learning model we will be using tableau to create data visualiza
 ### Question We Hope To Answer:
 - Simply put, our question is "Will this person make it into the HOF"
 - However, since the data is skewed in favor of not making it, our ML model will be better used to predict if they will not make it into the HOF.
+
+### Google Slides Presentation Link: 
+https://docs.google.com/presentation/d/13woQb0LoNwLfyeumS2VPe1OjBewcvDAlwDv7DEfNNrM/edit?usp=sharing
+
+### Tableau Public Dashboard Link: 
+https://public.tableau.com/app/profile/henry.barze/viz/BaseballAnalysis_16527493726100/BaseballAnalysis?publish=yes
+
