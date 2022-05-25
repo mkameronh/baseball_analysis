@@ -1,6 +1,5 @@
 # baseball_analysis
 
-## HB - Technologies Used
 ### Data Cleaning and Analysis
 We will use VScode for data cleaning and github for sharing. For our initial data analysis familiarizing ourselves with the datasets, we are using VScode. 
 
@@ -31,5 +30,5 @@ For our machine learning model we will be using tableau to create data visualiza
 https://docs.google.com/presentation/d/13woQb0LoNwLfyeumS2VPe1OjBewcvDAlwDv7DEfNNrM/edit?usp=sharing
 
 ### Tableau Public Dashboard Link: 
-https://public.tableau.com/app/profile/henry.barze/viz/BaseballAnalysis_16527493726100/BaseballAnalysis
+https://public.tableau.com/app/profile/henry.barze/viz/BaseballAnalysisStory/Baseball_AnalysisStory?publish=yes
 
